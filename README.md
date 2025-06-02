@@ -46,8 +46,7 @@ Soy desarrollador de aplicaciones móviles con Flutter y Dart, y también trabaj
 
 ## 📬 Contacto
 
-📧 aanghells@email.com 
-📧 https://www.linkedin.com/in/angel-david-velasquez-gaviria-b6b2b9327/
+📧 angel.gaviria.200220@gmail.com 
 🔒 Prefiero que mis proyectos hablen por mí :)
 
 ---
